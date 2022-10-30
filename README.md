@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ozame
+- 👀 I’m interested in artificial intelligence
+- 🌱 I’m currently learning Neovim and Go.
+- 📫 How to reach me - linkedin.com/in/samuku, onesamu@gmail.com.
